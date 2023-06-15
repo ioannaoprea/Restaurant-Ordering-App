@@ -22,10 +22,10 @@ Restaurant Ordering App
 
 ## My process
 
-1.Render the menu options using JS
-2.Be able to add/remove items as order
-3.Have a payment form inputs
-4.Have a thank you message
+- Render the menu options using JS 
+- Be able to add/remove items as order
+- Have a payment form inputs
+- Render a thank you message
 
 ### What I learned
 
