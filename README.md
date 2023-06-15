@@ -15,7 +15,10 @@ Restaurant Ordering App
 
 ### Screenshot
 
-
+![screenshot](./SS1.png)
+![screenshot](./SS2.png)
+![screenshot](./SS3.png)
+![screenshot](./SS4.png)
 
 ## My process
 
